@@ -14,9 +14,6 @@ C:\Users\marco\source\repos\StageApp\StageApp\bin\Debug\net6.0\StageApp.runtimec
 C:\Users\marco\source\repos\StageApp\StageApp\bin\Debug\net6.0\StageApp.dll
 C:\Users\marco\source\repos\StageApp\StageApp\bin\Debug\net6.0\StageApp.pdb
 C:\Users\marco\source\repos\StageApp\StageApp\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\marco\source\repos\StageApp\StageApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\marco\source\repos\StageApp\StageApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\marco\source\repos\StageApp\StageApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\marco\source\repos\StageApp\StageApp\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\marco\source\repos\StageApp\StageApp\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\marco\source\repos\StageApp\StageApp\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -108,3 +105,5 @@ C:\Users\marco\source\repos\StageApp\StageApp\obj\Debug\net6.0\refint\StageApp.d
 C:\Users\marco\source\repos\StageApp\StageApp\obj\Debug\net6.0\StageApp.pdb
 C:\Users\marco\source\repos\StageApp\StageApp\obj\Debug\net6.0\StageApp.genruntimeconfig.cache
 C:\Users\marco\source\repos\StageApp\StageApp\obj\Debug\net6.0\ref\StageApp.dll
+C:\Users\marco\source\repos\StageApp\StageApp\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\marco\source\repos\StageApp\StageApp\bin\Debug\net6.0\WebDriver.Support.dll
